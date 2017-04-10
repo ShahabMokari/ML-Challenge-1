@@ -349,5 +349,3 @@ save_sub <- function(pred, nsub) {
 }
 
 run_all_to_sub()
-
-
